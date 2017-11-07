@@ -14,34 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="todo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06Website/todo.html">
+      <file leaf-file-name="colors.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09Colors/colors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="44" />
-              <folding>
-                <element signature="e#196#201#0" expanded="true" />
-                <element signature="e#225#232#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hello.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06Website/hello.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/06Website/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="119">
+              <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -68,6 +45,9 @@
         <option value="$PROJECT_DIR$/06Website/home.html" />
         <option value="$PROJECT_DIR$/06Website/todo.html" />
         <option value="$PROJECT_DIR$/06Website/hello.html" />
+        <option value="$PROJECT_DIR$/07Fruits/fruits.html" />
+        <option value="$PROJECT_DIR$/08Forms/contact.html" />
+        <option value="$PROJECT_DIR$/09Colors/colors.html" />
       </list>
     </option>
   </component>
@@ -77,7 +57,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1378" />
@@ -98,7 +78,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,16 +85,12 @@
               <item name="LabExercisesHTML5andCSS" type="b2602c69:ProjectViewProjectNode" />
               <item name="LabExercisesHTML5andCSS" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LabExercisesHTML5andCSS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LabExercisesHTML5andCSS" type="462c0819:PsiDirectoryNode" />
-              <item name="06Website" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,15 +122,16 @@
       <updated>1509985216588</updated>
       <workItem from="1509985220376" duration="939000" />
       <workItem from="1509988644866" duration="1303000" />
-      <workItem from="1510002475291" duration="1261000" />
+      <workItem from="1510002475291" duration="1376000" />
+      <workItem from="1510068919359" duration="3797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3503000" />
+    <option name="totallyTimeSpent" value="7415000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="754" extended-state="0" />
+    <frame x="-8" y="-8" width="1378" height="754" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -187,14 +163,37 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/06Website/todo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="44" />
+          <folding>
+            <element signature="e#196#201#0" expanded="false" />
+            <element signature="e#225#232#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06Website/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06Website/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/04MyTODOList/todo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          <folding>
-            <element signature="e#196#201#0" expanded="true" />
-            <element signature="e#225#232#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -202,7 +201,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -210,7 +208,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -239,7 +236,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -247,10 +243,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="7" />
-          <folding>
-            <element signature="e#196#201#0" expanded="true" />
-            <element signature="e#225#232#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -258,17 +250,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06Website/todo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="44" />
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="44" />
           <folding>
-            <element signature="e#196#201#0" expanded="true" />
-            <element signature="e#225#232#0" expanded="true" />
+            <element signature="e#196#201#0" expanded="false" />
+            <element signature="e#225#232#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -285,6 +276,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07Fruits/images/apple.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07Fruits/images/banana.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07Fruits/images/kiwi.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07Fruits/images/orange.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07Fruits/fruits.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08Forms/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09Colors/colors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
           <folding />
         </state>
       </provider>
