@@ -14,12 +14,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="colors.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/09Colors/colors.html">
+      <file leaf-file-name="borders.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10Colors/borders.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-              <folding />
+            <state relative-caret-position="153">
+              <caret line="9" column="73" lean-forward="false" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+              <folding>
+                <element signature="n#style#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#center#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#center#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#center#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,8 +52,9 @@
         <option value="$PROJECT_DIR$/06Website/todo.html" />
         <option value="$PROJECT_DIR$/06Website/hello.html" />
         <option value="$PROJECT_DIR$/07Fruits/fruits.html" />
-        <option value="$PROJECT_DIR$/08Forms/contact.html" />
         <option value="$PROJECT_DIR$/09Colors/colors.html" />
+        <option value="$PROJECT_DIR$/08Forms/contact.html" />
+        <option value="$PROJECT_DIR$/10Colors/borders.html" />
       </list>
     </option>
   </component>
@@ -57,7 +64,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1378" />
@@ -123,16 +130,16 @@
       <workItem from="1509985220376" duration="939000" />
       <workItem from="1509988644866" duration="1303000" />
       <workItem from="1510002475291" duration="1376000" />
-      <workItem from="1510068919359" duration="3797000" />
+      <workItem from="1510068919359" duration="4329000" />
+      <workItem from="1510077059027" duration="5505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7415000" />
+    <option name="totallyTimeSpent" value="13452000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="754" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1378" height="754" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -163,14 +170,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/09Colors/colors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#1;n#p#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#2;n#p#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/06Website/todo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="44" />
-          <folding>
-            <element signature="e#196#201#0" expanded="false" />
-            <element signature="e#225#232#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -178,7 +193,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -186,7 +200,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -257,10 +270,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="44" />
-          <folding>
-            <element signature="e#196#201#0" expanded="false" />
-            <element signature="e#225#232#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -268,7 +277,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -276,7 +284,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -304,7 +311,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09Colors/colors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#1;n#p#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#2;n#p#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -316,11 +334,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09Colors/colors.html">
+    <entry file="file://$PROJECT_DIR$/10Colors/borders.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding />
+        <state relative-caret-position="153">
+          <caret line="9" column="73" lean-forward="false" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+          <folding>
+            <element signature="n#style#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#center#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#center#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#center#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
