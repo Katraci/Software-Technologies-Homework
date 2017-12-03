@@ -19,6 +19,7 @@ class ArticleType extends AbstractType
 
     public function configureOptions(OptionsResolver $resolver)
     {
-      $resolver->setDefaults(array('data_class'=>'SoftUniBlogBundle\Entity\Article',));    }
+      $resolver->setDefaults(array('data_class'=>'SoftUniBlogBundle\Entity\Article'));
+    }
 
 }
