@@ -51,7 +51,7 @@ class User implements UserInterface
      */
     private $articles;
 
-    public function _construct(){
+    public function __construct(){
         $this ->articles= new ArrayCollection();
     }
 

@@ -35,12 +35,12 @@ class Article
      */
     private $content;
 
-//    /**
-//     * @var \DateTime
-//     *
-//     * @ORM\Column(name="dateAdded", type="datetime")
-//     */
-//    private $dateAdded;
+    /**
+     * @var \DateTime
+     *
+     * @ORM\Column(name="dateAdded", type="datetime")
+     */
+    private $dateAdded;
 
     /**
      * @var string
@@ -61,10 +61,11 @@ class Article
      * @ORM\JoinColumn(name="authorId", referencedColumnName="id")
      */
     private $author;
-//
-//    public function _construct(){
-//        $this->dateAdded= new \DateTime("now");
-//    }
+
+    public function __construct()
+    {
+        $this->dateAdded = new \DateTime('now');
+    }
 
     /**
      * Get id
@@ -124,29 +125,29 @@ class Article
         return $this->content;
     }
 
-//    /**
-//     * Set dateAdded
-//     *
-//     * @param \DateTime $dateAdded
-//     *
-//     * @return Article
-//     */
-//    public function setDateAdded($dateAdded)
-//    {
-//        $this->dateAdded = $dateAdded;
-//
-//        return $this;
-//    }
-//
-//    /**
-//     * Get dateAdded
-//     *
-//     * @return \DateTime
-//     */
-//    public function getDateAdded()
-//    {
-//        return $this->dateAdded;
-//    }
+    /**
+     * Set dateAdded
+     *
+     * @param \DateTime $dateAdded
+     *
+     * @return Article
+     */
+    public function setDateAdded($dateAdded)
+    {
+        $this->dateAdded = $dateAdded;
+
+        return $this;
+    }
+
+    /**
+     * Get dateAdded
+     *
+     * @return \DateTime
+     */
+    public function getDateAdded()
+    {
+        return $this->dateAdded;
+    }
 
     /**
      * @return string
@@ -189,22 +190,21 @@ class Article
 
 
     /**
+     * @param \SoftUniBlogBundle\Entity\User $author
+     *
+     * @return Article
+     */
+    public function setAuthor(User $author = null)
+    {
+        $this->author = $author;
+        return $this;
+    }
+    /**
      * @return \SoftUniBlogBundle\Entity\User
      */
     public function getAuthor()
     {
         return $this->author;
-    }
-
-    /**
-     * @param \SoftUniBlogBundle\Entity\User $author
-     *
-     * @return Article
-     */
-    public function setAuthor(User $author=null)
-    {
-        $this->author = $author;
-        return $this;
     }
 
 }
